@@ -1,0 +1,1 @@
+th train.lua -data_dir ~/fattnames/ -batch_size 4 -num_layers 2 -dropout 0.5 -max_epochs 200
